@@ -40,6 +40,9 @@ git stash list ==>
 git merge <branch> ==> merger le contenu dans on fait dans une brache (attention il faut bien verifier que la le merge  a était bien fait pour ne pas perder un elment)
 
 
+
+
+
             <!-- server repository -->
             
      $ git push <remote> <branch> ==> set in github
